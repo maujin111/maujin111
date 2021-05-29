@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maujin111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maujin111" height="30" width="40" /></a>
-<a href="https://instagram.com/maujin111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maujin111" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/maujin111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="maujin111" height="30" width="40" /></a>
+<a href="https://twitter.com/maujin111" target="blank"><img src="/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
+<a href="https://instagram.com/maujin111" target="blank"><img src="/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
+<a href="https://www.youtube.com/c/maujin111" target="blank"><img src="/svg/steaming/youtube.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
 
