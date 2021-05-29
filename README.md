@@ -33,3 +33,6 @@
 <p><img  src="https://github-readme-stats.vercel.app/api?username=maujin111&show_icons=true&locale=en" alt="maujin111" /></p>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=maujin111&" alt="maujin111" /></p>
+
+
+<spam> A special thanks to <a href='https://github.com/MikeCodesDotNET'>MikeCodesDotNET</a> for the <a href='https://github.com/MikeCodesDotNET/ColoredBadges'>Badges</a></spam>
