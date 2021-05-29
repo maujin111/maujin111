@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/maujin111" target="blank"><img src="/svg/social/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
 <a href="https://instagram.com/maujin111" target="blank"><img src="/svg/social/instagram.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
-<a href="https://www.youtube.com/c/maujin111" target="blank"><img src="/svg/steaming/youtube.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
+<a href="https://www.youtube.com/c/maujin111" target="blank"><img src="/svg/streaming/youtube.svg" alt="example badge" style="vertical-align:top margin:6px 4px"></a>
 </p>
 
 
