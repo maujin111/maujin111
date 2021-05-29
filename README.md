@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [LibreSprite](https://github.com/LibreSprite/LibreSprite)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source Software**
 
