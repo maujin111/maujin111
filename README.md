@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maujin111" alt="maujin111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/maujin111" target="blank"><img src="https://img.shields.io/twitter/follow/maujin111?logo=twitter&style=for-the-badge" alt="maujin111" /></a> </p>
+
 
 - 🔭 I’m currently working on [LibreSprite](https://github.com/LibreSprite/LibreSprite)
 
