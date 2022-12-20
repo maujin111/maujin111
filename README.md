@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Software**
 
-- 📫 How to reach me **maurial593@gmail.com**
+- 📫 How to reach me **maurial593@gmail.com** or on Discord **Maujin111**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
