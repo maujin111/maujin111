@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maujin111&label=Profile%20views&color=0e75b6&style=flat" alt="maujin111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maujin111" alt="maujin111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maujin111&&theme=gruvbox" alt="maujin111" /></a> </p>
 
 
 
@@ -27,10 +27,14 @@
 <br>
 <br>
 <h3 align="left">Stats:</h3>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maujin111&show_icons=true&locale=en&layout=compact" alt="maujin111" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=maujin111&show_icons=true&locale=en" alt="maujin111" /></p>
+<p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=maujin111&show_icons=true&locale=en&theme=dark&show_icons=true" alt="maujin111" />
+      
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maujin111&show_icons=true&locale=en&layout=compact&theme=dark&show_icons=true" alt="maujin111" />  
+</p>
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=maujin111&" alt="maujin111" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=maujin111&theme=dark" alt="maujin111" /></p>
 
 
 <spam> A special thanks to <a href='https://github.com/MikeCodesDotNET'>MikeCodesDotNET</a> for the <a href='https://github.com/MikeCodesDotNET/ColoredBadges'>Badges</a></spam>
