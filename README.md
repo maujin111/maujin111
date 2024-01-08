@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [LibreSprite](https://github.com/LibreSprite/LibreSprite)
+- 🔭 I’m currently working on [LibreSprite](https://github.com/LibreSprite/LibreSprite) and Anfibiua 🦎
 
 - 🌱 I’m currently learning **Flutter** and **Svelte**
 
